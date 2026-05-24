@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/884aa437-54bc-4f61-afba-4e100563be10
+
+
+
+https://github.com/user-attachments/assets/0a96626d-5cd8-4ea7-9a14-5ec701b3c31b
+
 ---
 publishDate: 2026-05-24T00:00:00Z
 title: MYOSA SwarmSense Lite – IoT-Based Collaborative Survivor Detection System
@@ -82,11 +90,17 @@ The project uses ESP32 along with multiple sensors to monitor environmental cond
 
 ### **Videos**
 
+[Presentation Video] (https://github.com/user-attachments/assets/b3164367-fa68-44b0-b787-afb7ef06aa84)
 
 
 <video controls width="100%">
   <source src="/presentation.mp4" type="video/mp4">
 </video>
+
+
+[Demonstration Video] (https://github.com/user-attachments/assets/e29214b2-8be0-471c-a1de-5870f047a968)
+
+
 
 <video controls width="100%">
   <source src="/demonstration.mp4" type="video/mp4">
