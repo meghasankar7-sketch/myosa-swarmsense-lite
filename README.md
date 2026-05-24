@@ -89,7 +89,7 @@ The project uses ESP32 along with multiple sensors to monitor environmental cond
 <video controls width="100%">
   <source src="videos/demonstration.mp4" type="video/mp4">
 </video>
----
+
 
 ## Features (Detailed)
 
