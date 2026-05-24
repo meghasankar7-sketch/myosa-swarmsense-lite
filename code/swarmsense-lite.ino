@@ -45,7 +45,7 @@
 // ─── BLYNK CONFIG (fill in your details) ────────────────────
 #define BLYNK_TEMPLATE_ID "TMPL3YnTtiANz"
 #define BLYNK_TEMPLATE_NAME "HumanPresenceDetector"
-#define BLYNK_AUTH_TOKEN "1JV26jS6X48F1z2MLZAZbGvz6hYmfLTT"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 // Silence Blynk serial prints if needed
 #define BLYNK_PRINT Serial
@@ -62,8 +62,8 @@
 #include <Adafruit_GFX.h>
 
 // ─── WIFI CREDENTIALS ────────────────────────────────────────
-const char* ssid     = "FTTH-B626";
-const char* password = "A123456B";
+const char* ssid     = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // ─── PIN DEFINITIONS ─────────────────────────────────────────
 #define DHT_PIN         17
