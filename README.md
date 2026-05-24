@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/884aa437-54bc-4f61-afba-4e100563be10
-
-
-
-https://github.com/user-attachments/assets/0a96626d-5cd8-4ea7-9a14-5ec701b3c31b
-
 ---
 publishDate: 2026-05-24T00:00:00Z
 title: MYOSA SwarmSense Lite – IoT-Based Collaborative Survivor Detection System
