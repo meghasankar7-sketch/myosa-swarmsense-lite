@@ -18,3 +18,13 @@ IoT-based multi-sensor disaster rescue system using ESP32 and MYOSA SwarmSense L
 ![Arduino IDE](assets/images/myosa-swarmsense-lite/rescue-detector-arduino.jpg)
 
 ![Hardware](assets/images/myosa-swarmsense-lite/rescue-detector-hardware.jpg)
+
+## Project Videos
+
+### Presentation Video
+
+[Presentation Video](videos/presentation.mp4)
+
+### Demonstration Video
+
+[Demonstration Video](videos/demonstration.mp4)
