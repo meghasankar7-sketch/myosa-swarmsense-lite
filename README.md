@@ -194,6 +194,22 @@ Blynk IoT Setup:
    password with your WiFi password
 7. Upload code and verify on Serial Monitor
 
+## Code & Technical Content
+
+### Arduino Source Code
+
+```cpp
+Blynk.virtualWrite(V0, temperature);
+
+if (gasAnalog > GAS_ALERT_LEVEL) {
+  digitalWrite(BUZZER_PIN, HIGH);
+}
+```
+
+Full Arduino source code:
+
+[Open Full Code](code/swarmsense-lite.ino)
+
 ## Contribution Notes
 
 This project was developed as part of MYOSA 5.0 competition. If you would like to build upon this project, you are welcome to fork this repository and submit improvements. Suggested areas for contribution include adding GPS location tracking, LoRa long-range communication, waterproof enclosure design, and AI-based pattern recognition for improved detection accuracy.
